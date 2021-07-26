@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<iostream>
-using namespace std;
+using namespace std; // esqueci de avisar que se vc jogar o dig passa
 int main()
 {
 bool jogando = true;
